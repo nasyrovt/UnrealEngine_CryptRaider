@@ -73,7 +73,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-#Temp
-Content/MedievalDungeon/Materials/*
-Content/MedievalDungeon/Meshes/*
